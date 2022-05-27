@@ -761,8 +761,10 @@ a {
   }
 
   .heroImg img {
-    width: 150%;
-    margin-top: -50px;
+    width: 130%;
+    height: 350px;
+    margin-left: -50px;
+    margin-top: -20px;
   }
 
   .fourE {
